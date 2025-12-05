@@ -18,7 +18,7 @@ document.getElementById("button").onclick = () => {
      {
        client_id: "066aab69e9654d61a94a447934018195",
        response_type: "token",
-       redirect_uri: "hhttps://oauth-master-class-self.vercel.app/token.html",
+       redirect_uri: "https://oauth-master-class-self.vercel.app/token.html",
      },
      "https://oauth-master-class-self.vercel.app",
      {
